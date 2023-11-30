@@ -64,7 +64,10 @@
     <Analyzer Include="E:\Program Files\Unity\2022.3.14f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Movement.cs" />
+    <Compile Include="Assets\Scripts\QuitApplication.cs" />
+    <Compile Include="Assets\Scripts\Movement.cs" />
+    <Compile Include="Assets\Scripts\Oscilator.cs" />
+    <Compile Include="Assets\Scripts\CollisionHandler.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
